@@ -1,4 +1,4 @@
-class Compare implements Comparable<Object>
+public final class Compare implements Comparable<Object>
 {
     private String string;
     private int number;
